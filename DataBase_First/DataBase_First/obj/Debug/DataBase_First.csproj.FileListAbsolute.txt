@@ -1,0 +1,14 @@
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\DataBase_First.exe.config
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\DataBase_First.exe
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\DataBase_First.pdb
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\EntityFramework.dll
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\MaterialSkin.dll
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\EntityFramework.xml
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\obj\Debug\DataBase_First.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\obj\Debug\DataBase_First.Form1.resources
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\obj\Debug\DataBase_First.Properties.Resources.resources
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\obj\Debug\DataBase_First.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\obj\Debug\DataBase_First.exe
+C:\Users\PKO\Desktop\DataBase_First\DataBase_First\obj\Debug\DataBase_First.pdb
